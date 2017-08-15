@@ -1,7 +1,8 @@
 # ajs-5.4-custom-events
 Advanced JavaScript | Lecture 5 Task 4
 
-Using your completed code from exercise 5.3, you will add some custom events. 1. When an element is added to the group, fire an event 
+Using your completed code from exercise 5.3, you will add some custom events. 
+1. When an element is added to the group, fire an event 
 - When this event fires, you should return the description of the element as part of the detail object. 
 2. When an element is removed from the DOM, fire another event Attach event handlers to listen for both of these events and console.log appropriate messages: 
 - The add event: log the element text • The remove event: log a message: “Element Removed” 
