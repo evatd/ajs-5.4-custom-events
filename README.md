@@ -7,4 +7,3 @@ Using your completed code from exercise 5.3, you will add some custom events. 1.
 - The add event: log the element text • The remove event: log a message: “Element Removed” 
 Note, the event handlers need to be attached to the event after the event has been created, but before it has been dispatched. 
 If you have time, add a paragraph to the HTML page where the total number of items in the group is displayed: 
-<p>Total: <span id="total-items">X</span></p>
